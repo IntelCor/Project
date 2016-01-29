@@ -1,0 +1,6 @@
+
+body {
+  background: #ccc;
+  -webkit-transition: .21s;
+  transition: .21s;
+}
